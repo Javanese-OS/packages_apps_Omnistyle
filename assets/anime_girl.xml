@@ -30,12 +30,4 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="anime_girl_header_08" />
     <random_header image="anime_girl_header_09" />
     <random_header image="anime_girl_header_10" />
-    <random_header image="anime_girl_header_11" />
-    <random_header image="anime_girl_header_12" />
-    <random_header image="anime_girl_header_13" />
-    <random_header image="anime_girl_header_14" />
-    <random_header image="anime_girl_header_15" />
-    <random_header image="anime_girl_header_16" />
-    <random_header image="anime_girl_header_17" />
-    <random_header image="anime_girl_header_18" />
 </daylight_headers>
